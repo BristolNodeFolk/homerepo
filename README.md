@@ -1,4 +1,4 @@
-homerepo
-========
+BristolNodeFolk Home Repo
+=========================
 
-a reo where we can have a wiki about stuff we are going to do.
+An empty repo where we can store a wiki about stuff we are going to do.
